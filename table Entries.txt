@@ -1,0 +1,6 @@
+Class Prerformance         classper
+Online                    online1   online2
+Quiz			quiz
+Attendance    attendance
+Viva        viva
+Observation    obsn
